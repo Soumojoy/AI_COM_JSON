@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "ownerName": "Soumojoy",
+      "phone": "6576262562",
+      "email": "soumojoy.bhattacharjee@wipro.com",
+      "address": "hahahaha",
+      "id": "BguJe2tLzWo"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
